@@ -1,0 +1,38 @@
+
+
+.my-navbar {
+  background: #1b6385;
+  background: linear-gradient(
+    90deg,
+    rgba(27, 99, 133, 1) 0%,
+    rgba(70, 176, 114, 1) 74%,
+    rgba(237, 221, 83, 1) 100%
+  );
+}
+
+i {
+  font-size: 2rem;
+  color: white;
+}
+
+
+
+.h-80 {
+  height: 80% !important;
+}
+
+
+
+.create__image{
+  position: fixed;
+  top: 0;
+  right: 46%;
+  z-index: 1;
+  background: #1b6385;
+  background: linear-gradient(
+    90deg,
+    rgba(27, 99, 133, 1) 0%,
+    rgba(70, 176, 114, 1) 74%,
+    rgba(237, 221, 83, 1) 100%
+  );
+}
