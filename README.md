@@ -33,9 +33,3 @@ It allows users to register with email activation, login via JWT, create and bro
 - Vite
 - Axios
 - React Router
-
----
-
-### Watch the demo video
-
-[![Watch the video](https://img.youtube.com/vi/15qxImgwtto/maxresdefault.jpg)](https://youtu.be/15qxImgwtto)
